@@ -1,0 +1,15 @@
+export const breakpoints = {
+  mobileS: 300,
+  mobileM: 320,
+  mobileL: 425,
+  tabletM: 768,
+  tabletL: 895,
+  laptopS: 1024,
+  laptop: 1080,
+  laptopXS: 768,
+  laptopXL: 1366,
+  laptopM: 1280,
+  desktopM: 1440,
+  desktopL: 1680,
+  desktopXL: 1920,
+};
